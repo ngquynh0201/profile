@@ -1,2 +1,2 @@
-# -E-DA-phan-tich-thiet-ke-he-thong-DAPM2-DAQLSinhVien-DAQLSinhVien.sln
+# Quản lý sinh viên
 Đồ Án phần mền 2
